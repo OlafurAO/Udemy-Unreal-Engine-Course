@@ -1,5 +1,6 @@
-*/Binaries
-*/Intermediate
-*/Build
-*/Saved
-*/DerivedDataCache
+Binaries/
+Intermediate/
+Build/
+Saved/
+DerivedDataCache/
+.vs/
